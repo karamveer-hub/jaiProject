@@ -21,13 +21,10 @@
         text-align: center;
     }
     .section4 .display_flex > .display_flex_col{
-        width: 45%;
-        max-width: 455px;
     }
 }
 @media screen and (min-width:1000px){
     .section4 .display_flex .display_flex_col img{
-        height: 232px;
     }
     .container{
         width: 978px;
@@ -43,8 +40,6 @@
         justify-content: space-between;
     }
     .section4 .display_flex > .display_flex_col{
-        width: 30%;
-        max-width: 455px;
     }
 }
 @media screen and (min-width:1200px){
