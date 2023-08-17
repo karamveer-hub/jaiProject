@@ -273,4 +273,16 @@ body{
 .section3 iframe{
     
 }
+#whatsappIcon{
+    position: fixed;
+    bottom: 5%;
+    right: 0%;
+    height: 64PX;
+    /* margin: 0 auto; */
+    background: #ffffff;
+    padding: 10px 40px 10px 10px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    box-shadow: 0 0 8px 2px #e4e4e45e;
+}
 
